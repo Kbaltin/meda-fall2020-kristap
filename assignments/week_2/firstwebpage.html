@@ -60,9 +60,29 @@ bullet points-->
 </dl>
 
 <!-- Image element using a relative file path.-->
-<img src="eye.jpg" /> 
+<img src="eye.jpg" alt="a picture of an eye" 
+title="big eye picture" width="200" height="200" /> 
 <!-- Same image using an absolute file path. Would be a 
 the whole file extension starting with users -->
 
-<img src="steps.jpg" />
-<img src="waterfall.jpg" />
+<!-- Order of attributes do not matter-->
+
+<!-- the alt attribute allows screen
+readers to "read the image" or allows the user
+to read something if the image is broken-->
+
+<!-- The title attribute allows for a tooltip
+to appear when you hover over an image-->
+
+<!-- The width and height attribute
+allows the webpage to "reserve" space for
+an image while it's loading.-->
+
+<img src="steps.jpg" alt="a picture of steps"
+title="This is the coolest image ever!" 
+width="200" 
+height="200" />
+<img src="waterfall.jpg" alt="a waterfall" title="waterfall"
+height="200" width="200" />
+
+
