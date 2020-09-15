@@ -1,0 +1,25 @@
+/* Comment command
+    CSS: Cascading Styles Sheets
+
+        CSS Parts:
+        Selector
+        Rules: property & value
+*/    
+
+/* body {background-color: cyan;
+}
+
+p {
+    color: green;
+    font-size: 72px;   
+}
+*/
+
+#FirstDiv {
+    background-color: grey;
+    margin: 10px;
+}
+
+#pizza {
+    background-color: red;
+}
