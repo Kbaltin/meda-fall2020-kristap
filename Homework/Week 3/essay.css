@@ -1,0 +1,31 @@
+
+    
+#one {
+    font-size: 48;
+    text-decoration: underline;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+
+.box {
+    width: 500;
+    height: 100;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    padding-top: 5px;
+    font-family: sans-serif;
+    color: darkblue;
+    text-align: center;
+}
+
+#two {
+    font-family: Arial;
+    margin: 15px;
+}
+
+#three {
+    font-style: italic;
+}
+
