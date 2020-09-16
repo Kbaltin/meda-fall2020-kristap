@@ -1,0 +1,29 @@
+body {
+    font-family: "Arial";
+    background-color: pink;
+}
+
+/* p {
+    font-family: "Georgia";
+}  */
+
+#first {
+    font-family: "courier";
+}
+
+#special {
+    color: red;
+}
+
+.different {
+    font-family: "Verdana";
+}
+
+.green {
+    color: green;
+    background-color: lightgreen;
+}
+
+p {
+    font-family: "Lucida Console";
+}

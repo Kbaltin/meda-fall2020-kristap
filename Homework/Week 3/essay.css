@@ -1,6 +1,6 @@
 
     
-#one {
+.one {
     font-size: 48;
     text-decoration: underline;
     text-align: center;
@@ -18,14 +18,18 @@
     font-family: sans-serif;
     color: darkblue;
     text-align: center;
+    margin-top: 60px;
 }
 
-#two {
+.two {
     font-family: Arial;
     margin: 15px;
+    
 }
 
-#three {
+.three {
     font-style: italic;
 }
+
+text-indent: 
 
