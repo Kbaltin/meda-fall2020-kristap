@@ -39,14 +39,32 @@ web page */
     }
 
 #article {
-    width: 460px; /* takes into consideration padding
+    width: 468px; /* takes into consideration padding
     and border size */
     height: 958px;
     background-color: pink;
     display: inline-block;
     vertical-align: top;
     padding: 20px;
-    border: 1px solid red; /* shorthand for border-width, 
+    border: 1px solid red; 
+    
+    
+    /* shorthand for border-width, 
     border-style and border-color */
 
+}
+
+.gallery {
+    width: 77px;
+    height: 200px;
+    background-color: silver;
+    display: inline-block;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+#gallery-container {
+    line-height: 0px;
 }
