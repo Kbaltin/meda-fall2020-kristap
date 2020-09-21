@@ -1,0 +1,74 @@
+div {
+    width: 200px;
+    height: 200px;
+    background-color: darksalmon; /* !important */
+}
+
+/* selct all divs which have a footer ancestor */
+footer div {
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+}
+
+header div {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+
+a {
+    color: purple;
+}
+
+div a {
+    color: red;
+}
+
+p a {
+    color: pink;
+}
+
+/* select all members which have an ancenstor of paragraph but
+but this paragraph needs a PARENT */
+div > div > p a {
+    color: greenyellow;
+}
+
+p > a {
+    font-size: 24px;
+}
+
+.bold {
+    text-decoration: overline;
+}
+
+a.bold {
+    font-weight: bold;
+}
+
+/* select the id of special-text, but whoever holds it
+must be a paragraph element */
+p#special-text {
+
+}
+
+/* select the id of special text, and this element needs
+to have an ancestor of a paragraph */
+p #special-text {
+
+}
+
+/* select all paragraphs and all anchors */
+p, a {
+
+}
+/*
+.myclass h1 {
+
+}
+
+#first p a {
+
+}
+*/ 
