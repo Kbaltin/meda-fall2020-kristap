@@ -11,6 +11,14 @@ footer div {
     background-color: blue;
 }
 
+body footer dive {
+    background-color: orange;
+}
+
+html body footer div {
+    background-color: gray;
+}
+
 header div {
     width: 100px;
     height: 100px;
