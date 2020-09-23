@@ -3,28 +3,50 @@ main and footer, so we can apply margin-left and margin
 right to this parent div, instead of every div on the 
 web page */
 
+body {
+    background-color: lemonchiffon;
+}
+
 #container {
     margin-left: auto;
     margin-right: auto;
     width: 700px;
 }
 
+#container header nav {
+    padding-top: 140px;
+    
+}
+/*cover position for this section */
 #container header nav ul {
-    border: dashed green;
     padding-left: 0;
-    width: 275px;
+    width: 350px;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    
 }
 
-#container header nav ul li {
-    border-style: dashed;
-    border-color: red;   
+#container header nav ul li {  
     border-width: 1px;
-    display: inline;
-    margin-left: 10px;
-    margin-right: 10px;
+    display: inline-block;
+    background-color: lightgreen;
+    border-radius: 5px;
+    line-height: 32px;
+}
+
+#container header nav ul li a {
+    font-family: Arial;
+    line-height: 32px;
+    padding: 8px;
+    display: inline-block;
+    height: 32px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    text-decoration: none
 }
 
 header {
@@ -39,6 +61,28 @@ main {
     padding: 20px;
     vertical-align: middle;
     
+}
+
+#home p, #home h1 {
+    color: darkgreen;
+}
+
+#about p {
+    color: fuchsia;
+}
+
+#about h1 {
+    color: fuchsia
+}
+
+#about h2 {
+    color: fuchsia
+}
+
+h1 { color: fuchsia;
+}
+
+h2 { color: fuchsia;
 }
 
 footer {
