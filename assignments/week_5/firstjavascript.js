@@ -145,3 +145,16 @@ function myFirstFunction()  {
 myFirstFunction();
 myFirstFunction();
 myFirstFunction();
+
+nonExistingVariable;
+
+
+// Practice creating the following:
+/*
+
+Variables
+Datatypes
+If Statements
+Logical Comparison
+
+*/
