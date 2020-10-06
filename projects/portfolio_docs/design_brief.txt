@@ -1,0 +1,86 @@
+Portfolio Project
+
+After deliberating some time about what I wanted this portfolio to be, I decided that I want it to be a starter
+project for a web designer (featuring my photography of different cities and areas) that is still learning the ropes, and 
+wants to come up with a simple project highlighting the utility and functionality of the website he is creating.
+ 
+A) It was difficult for me to choose the colors for this website before I have had a chance to play around with the 
+website in order to determine what suits it best. But for the purposes of fulfilling this assignment, I have decided 
+to make the background color a light gray, so as to not interfere with the foreground text and content of the site.
+I want my font to be a dark blue, so as to be highly visible and clear to the potential visitor of the site. I would 
+like to keep the same color of font for all three sections of my website, as I find that different colors would be 
+distracting and possibly seem tacky.   
+
+D)
+HOME PAGE
+
+Welcome to my Portfolio Page
+
+Check out my gallery detailing the iamgery of three wonderful settings. 
+
+Enjoy the breeze and fog of San Francisco, stroll 
+through the warm streets of Los Angeles, and take time to appreciate the beauty of nature in Yosemite. 
+Click on PHOTO GALLERY PROJECT to continue your journey
+
+
+PHOTO GALLERY PROJECT
+
+Click on one of the locations: SAN FRANCISCO, LOS ANGELES, YOSEMITE to have a closer look at the sights that
+gave me the definitive impressions of those locations I will never forget. 
+
+
+SAN FRANCISCO
+
+The images I chose to represent San Francisco have to do with capturing that feel of the "City by the Bay" I wanted to
+include a lot of water and a lot of fog. The bay stretches across the city, capturing views from Pier 39 and heading 
+all the way down to Ocean Beach to look at the cliffhouse and the mysterious caves beneath it.
+
+
+LOS ANGELES
+
+I wanted to capture the hot and hip vibe of Los Angeles by showing palm trees contrasted against a clear blue sky, and 
+then offer a contrast of the same palm trees framing the city street signs and the architecture of its urban 
+landscape. 
+
+
+YOSEMITE
+
+The majesty of Yosemite lies in its association with natural phenomenons of tall mountains, waterfalls and a multitude
+of trees.
+
+
+
+ABOUT ME
+
+My name is Kristap Baltin, and I'm an aspiring web page designer looking to provide businesses with pages that are
+functional, easy to use, and provide simple, pleasing layouts that intuitively guide the user through the site 
+without distractions and capitalize on content to create conversions.
+
+In a world of ambiguity and abstraction, it is nice to have a guide that knows what you need and where you want to go.
+I use this website to take the visitor through a journey of three iconic cities and to display my philosophy of
+simplicity, and a clear, lucid, simple and concise design. 
+
+Current day website visitors attempt to have their needs met everyday through seeking services that are transparent
+and take them to where they need to go. In many cases, their attempts are met with frustration as they visit sites
+that bombard them with advertisements, clunky and confusing designs, and superfluous information and content that
+inevitably chases them away into arms of competitors who understand utility and efficiency.
+
+I hope my website can display my philosophy of simplicity and easy navigation through a representation of three different
+areas capturing the spirit and soul of the cities the images portray.     
+
+
+
+CONTACT ME
+
+Kristap Baltin
+San Francsico, CA
+
+E-mail me at: Kbaltin@yahoo.com
+Check out my profile at: www.linkedin.com/in/kristap-baltin
+
+Check out another example of my design at: Kristapbaltin.com
+
+Check out my resume: RESUME.PDF
+
+
+
