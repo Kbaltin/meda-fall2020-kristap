@@ -83,4 +83,52 @@ Check out another example of my design at: Kristapbaltin.com
 Check out my resume: RESUME.PDF
 
 
+E) Model Portfolio Websites
+
+	i) belancio.com
+Header: the BELANCIO line top left, and the heading "Hello, we are Belancio. We create engaging experiences. 
+Nice to meet you."
+
+Body: The six image cubes in the middle.
+
+Footer: @2020 Belancio text, and the links to Instagram, Dribble and Behance.
+
+I like that the page appears sleek and is minimalistic. There isn't an overflow of information in the header and footer.
+The white background is non-distracting and forces the user to focus in on the comment. 
+
+I don't like that the image squares in the body aren't all that visually appealing. The design seems sloppy, and that
+these brands are squeezed up against each other is confusing and doesn't create a lot of brand separation. The user isn't
+sure where one brand begins and where the other ends. The colors are not attractive and the separate brands could use
+borders. I understand they're going for a communal look representing Belancio as a whole, but the result seems
+cluttered and unnapealing.
+
+ii) Hangar.co
+
+Header: 4 fluctuating images representing 4 different brands.
+Body: 4 blocks representing 4 brands and brief invitations to view the projects.
+Footer: "Let's get started" section featuring Project Planner and Newsletter subscription.
+
+One thing I like: This website is incredible and manages to do everything that Belancio did not. It separates
+its work on the four brands by using 4 captivating fluctuating images, and by separating the brands in easily
+recognizable individual spaces in the body. The site is impressive visually and easy to use and understand.
+
+One thing I don't like: Nothing, I thought this was the ideal way to market your projects and brands.
+
+iii) workdiary.de
+
+Header: Michael Schmid - Designer & Developer
+
+Body: Description of who he is.
+
+Footer: Let's connect - e-mail, Dribbble, Twitter
+
+One thing I like: The site looks awesome. It's simple, but also engaging and visually impressive. 
+
+One thing I don't like: There is not a lot of variety on the site. We don't really know of all that Michael is
+capable of just by visiting this site. There are no ecxamples of previous projects or different examples of works.
+  
+
+
+
+
 
