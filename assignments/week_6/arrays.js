@@ -104,6 +104,7 @@ var masterArray = [
     [10, 29],
     [14.20],
     [50,12]
+    
 ]
 
 masterArray; // the entire array
