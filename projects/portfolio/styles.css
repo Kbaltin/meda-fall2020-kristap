@@ -60,6 +60,15 @@ header {
     background-color: gray;
 }
 
+.profilepicture {
+    float: left;
+    margin-left: 0px 0px 0px 30px;
+    height: 277px;
+    width: 208px;
+    margin-bottom: 0px;
+}
+
+
 main {
     background-color: lightgray;
     padding: 20px;
@@ -75,6 +84,15 @@ main {
     padding: 20px;
     margin: auto;
 }   
+
+#clearboxabout {
+    width: 500px;
+    height: 550px;
+    background-color: gray;
+    border: 1px solid black;
+    padding: 20px;
+    margin-top: 5px;
+}
 
 #home p, #home h1 {
     color: darkblue;
