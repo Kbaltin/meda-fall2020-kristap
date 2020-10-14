@@ -1,7 +1,7 @@
 Portfolio Project
 
 After deliberating some time about what I wanted this portfolio to be, I decided that I want it to be a starter
-project for a web designer (featuring my photography of different cities and areas) that is still learning the ropes, and 
+project for a web designer (featuring my photography of different cities and areas) who is still learning the ropes, and 
 wants to come up with a simple project highlighting the utility and functionality of the website he is creating.
  
 A) It was difficult for me to choose the colors for this website before I have had a chance to play around with the 
