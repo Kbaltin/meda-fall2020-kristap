@@ -1,11 +1,13 @@
 $(document).ready(function () {
   
-   setTimeout(function () {
+console.log("HI");
+
+   setTimeout(function () {    //JQuery
     var myBox = $("#box");   
     myBox.css("background-color", "red");
    }, 3000);
 
-    setTimeout(function () {
+    setTimeout(function () {  //JQuery
         var myBox = $("#box");
         myBox.css("background-color", "green");
     }, 6000);
@@ -14,6 +16,7 @@ $(document).ready(function () {
 
     orangeButton.click(function () {
         $("#box").css("background-color", "orange");
+        // $("body").empty();
     });
 
     var purpleButton = $("#purple-button");
@@ -24,6 +27,10 @@ $(document).ready(function () {
         // If purple buttom gets clicked we change box and button css properties
         $("#purple-button").css("background-color", "purple");
         $("#purple-button").css("color", "white");
+    });
+
+    $("pink-button").click(function () {
+        $("box").css("background-color", "pink");
     });
 
     $("#pink-button").click(function () {
@@ -46,3 +53,5 @@ $(document).ready(function () {
     //$("#box").css();
 
 });
+
+console.log("We finished the script")
