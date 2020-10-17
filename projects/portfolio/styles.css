@@ -29,8 +29,8 @@ header {
 }
 
 li {
-    margin-right: 50;
-    margin-left: 50px;
+    margin-right: 50px;
+    /*margin-left: 50;*/ 
     border: solid black;
 } 
 
@@ -61,7 +61,7 @@ header {
 }
 
 #profilepicture {
-    margin-left: 0px 0px 0px 30px;
+    /*margin-left: 0px 0px 0px 30px;*/
     height: 277px;
     width: 208px;
     margin-bottom: 0px;
@@ -76,7 +76,7 @@ main {
 }
 
 #clearbox {
-    float: center;
+    /*float: center;*/
     width: 500px;
     height: 300px;
     background-color: gray;
@@ -105,9 +105,27 @@ main {
     margin: auto;
 }
 
-#gallerybox h1 {
+#gallerybox h1 { 
     text-align: center;
 }
+
+#gallerybox p {
+    text-align: center;
+}
+
+
+.column {
+    float: left;
+    width: 31.00%;
+    padding: 5px;
+  }
+  
+
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
 
 #home p, #home h1 {
     color: darkblue;
@@ -135,17 +153,3 @@ footer p {
     
 }
 
-.gallery {
-    width: 77px;
-    height: 200px;
-    background-color: silver;
-    display: inline-block;
-    padding: 10px;
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-bottom: 20px;
-}
-
-#gallery-container {
-    line-height: 0px;
-}

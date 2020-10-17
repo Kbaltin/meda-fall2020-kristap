@@ -11,6 +11,10 @@ I want my font to be a dark blue, so as to be highly visible and clear to the po
 like to keep the same color of font for all three sections of my website, as I find that different colors would be 
 distracting and possibly seem tacky.   
 
+(Post completion of project notes): I changed the background color of my header, 
+footer and main sections to gray, while keeping the body background color light gray. I did this because I needed two 
+different colors between my body and my header, footer and main areas. 
+
 D)
 HOME PAGE
 
