@@ -15,6 +15,12 @@ distracting and possibly seem tacky.
 footer and main sections to gray, while keeping the body background color light gray. I did this because I needed two 
 different colors between my body and my header, footer and main areas. 
 
+(Post completion of project notes #2): Eduardo, I had sent you some emails on this before. I created the images and styles 
+folders in my project portfolio,  but didn't move anything into them as it would break the website. Was the point of this 
+to create more pathway descriptions into code? Sorry, if I misunderstood that part of the assignment. The other aspect I 
+couldn't figure out was how to make the a href links work on my figcaptions for the photogallery project page, I spent 
+many hours on this, adjusting code, and researching, but could not figure it out.)
+
 D)
 HOME PAGE
 
